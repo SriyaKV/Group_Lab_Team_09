@@ -1,0 +1,25 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+
+
+/**
+ *
+ * @author sriya
+ */
+
+package teamgreeting;
+
+public class Main {
+    public static void main(String[] args) {
+        Member1.main(args);
+
+        // Uncomment these after teammates add theirs:
+        // Member2.main(args);
+        // Member3.main(args);
+        // Member4.main(args);
+    }
+}
+
+
